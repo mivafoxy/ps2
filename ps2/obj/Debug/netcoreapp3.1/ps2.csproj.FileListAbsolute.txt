@@ -1,0 +1,11 @@
+D:\Source\Net\ps2\ps2\bin\Debug\netcoreapp3.1\ps2.exe
+D:\Source\Net\ps2\ps2\bin\Debug\netcoreapp3.1\ps2.deps.json
+D:\Source\Net\ps2\ps2\bin\Debug\netcoreapp3.1\ps2.runtimeconfig.json
+D:\Source\Net\ps2\ps2\bin\Debug\netcoreapp3.1\ps2.runtimeconfig.dev.json
+D:\Source\Net\ps2\ps2\bin\Debug\netcoreapp3.1\ps2.dll
+D:\Source\Net\ps2\ps2\bin\Debug\netcoreapp3.1\ps2.pdb
+D:\Source\Net\ps2\ps2\obj\Debug\netcoreapp3.1\ps2.csprojAssemblyReference.cache
+D:\Source\Net\ps2\ps2\obj\Debug\netcoreapp3.1\ps2.AssemblyInfoInputs.cache
+D:\Source\Net\ps2\ps2\obj\Debug\netcoreapp3.1\ps2.AssemblyInfo.cs
+D:\Source\Net\ps2\ps2\obj\Debug\netcoreapp3.1\ps2.dll
+D:\Source\Net\ps2\ps2\obj\Debug\netcoreapp3.1\ps2.pdb
